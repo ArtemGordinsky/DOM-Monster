@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "DOM Monster",
-  "description": "DOM Monster is a cross-platform, cross-browser bookmarklet that will analyze the DOM & other features of the page you're on, and give you its bill of health.",
+  "description": "DOM Monster is a bookmarklet that will analyze the DOM & other features of the page you're on, and give you its bill of health.",
   "background": {
     "scripts": ["background.js"]
   },
